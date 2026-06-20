@@ -1,0 +1,53 @@
+| Component                | Requirement                            |
+| ------------------------ | -------------------------------------- |
+| Programming Language     | Python 3.10+                           |
+| Frontend                 | HTML5, CSS3, Bootstrap 5               |
+| Backend Framework        | Flask                                  |
+| Database                 | SQLite3                                |
+| Machine Learning Library | Scikit-learn                           |
+| Data Processing          | Pandas, NumPy                          |
+| Development Environment  | Visual Studio Code                     |
+| Version Control          | Git & GitHub                           |
+| Browser                  | Google Chrome, Microsoft Edge, Firefox |
+
+
+
+| Component           | Minimum Requirement                                 |
+| ------------------- | --------------------------------------------------- |
+| Processor           | Intel Core i3 / AMD Ryzen 3                         |
+| RAM                 | 4 GB                                                |
+| Storage             | 500 MB Free Space                                   |
+| Operating System    | Windows 10/11, Linux, macOS                         |
+| Internet Connection | Required for package installation and Bootstrap CDN |
+
+Technologies Used :-
+Frontend
+HTML5
+CSS3
+Bootstrap 5
+Bootstrap Icons
+Backend :-
+Python
+Flask
+Database
+SQLite3
+Machine Learning
+Scikit-learn
+Decision Tree Classifier
+Additional Libraries:-
+Pandas
+NumPy
+Pickle
+Regex (re)
+
+Project Features :-
+Patient Record Management
+Add Patient Information
+Edit Patient Records
+Delete Patient Records
+Search Patients by Name
+SQLite Database Storage
+Health Risk Prediction using Machine Learning
+Input Validation
+Responsive Dashboard UI
+AI-Based Remarks Generation
